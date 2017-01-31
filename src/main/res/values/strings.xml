@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">QuizDemo</string>
+    <string-array name="Questions">
+        <item>What letter A is capital of Greece?</item>
+        <item>Who directed the Trainspotting movies?</item>
+        <item>Name of a popular 8-bit computer of 1980s.</item>
+        <item>How many planets in our Solar System?</item>
+        <item>In what year did the American Civil War end?</item>
+        <item>Who was the first British Prime Minister?</item>
+        <item>Popular Britpop band of the 90s?</item>
+        <item>What is capital of Hungary?</item>
+
+    </string-array>
+    <string-array name="Answers">
+        <item>Athens</item>
+        <item>Danny Boyle</item>
+        <item>BBC Micro</item>
+        <item>Nine</item>
+        <item>1865</item>
+        <item>Sir Robert Walpole</item>
+        <item>Oasis</item>
+        <item>Budapest</item>
+
+    </string-array>
+    <string-array name="Hints">
+        <item>Is built on seven hills</item>
+        <item>First name Danny</item>
+        <item>was very popular in schools and colleges</item>
+        <item>My Very Easy Method Just Tells Us There Are **** Planets?</item>
+        <item>18**?</item>
+        <item>holds record of longest serving prime minister</item>
+        <item>Gallagher</item>
+        <item>Resides on River Danube</item>
+
+    </string-array>
+    <string name="title_activity_menu">Menu</string>
+
+</resources>
